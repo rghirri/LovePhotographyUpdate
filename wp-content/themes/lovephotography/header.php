@@ -34,7 +34,7 @@
               <a href="<?php echo site_url('/about-us') ?>" class="nav-link">About Us</a>
             </li>
             <li class="nav-item pr-5">
-              <a href="#newsletter" class="nav-link">Contact</a>
+              <a href="#newsletter" class="nav-link">Contact me</a>
             </li>
           </ul>
         </div>
